@@ -3,7 +3,7 @@
 my name is dorian i am 18 yrs old student of the 42 lyon's school, i am actually doing my first year in this school.
 in the past i've done a bac numerical system option risc.
 since i am little i like to learn by myself and from the other so if you find something to say about my code tell me i won't get mad
-my [LinkedIn](https://www.linkedin.com/in/dorian-edme-765001254/) and [my personal resume](dorian311.wordpress.com)
+my [LinkedIn](https://www.linkedin.com/in/dorian-edme-765001254/) and [my personal resume](www.dorian311.wordpress.com)
 <!--
 **dborian/dborian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
